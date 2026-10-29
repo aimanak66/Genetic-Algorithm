@@ -1,1 +1,1 @@
-# Genetic-Algorithm_
+# Genetic Algorithm: 80-bit Pattern
